@@ -1,4 +1,4 @@
-const ConsoleGUI = require("../lib");
+const ConsoleGUI = require("../lib/ConsoleGUI");
 const app = new ConsoleGUI();
 
 app
